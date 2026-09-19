@@ -1,6 +1,6 @@
 # 🧮 Interactive Web Calculator
 
-A clean, responsive, and light-weight web-based calculator built using vanilla modern web standards (**HTML5**, **CSS3**, and **JavaScript**). This application provides essential arithmetic functionality alongside clear input handling, optimized layout responsiveness, and clean interactive feedback.
+A clean, responsive, and light-weight web-based calculator built using core modern web standards (**HTML5**, **CSS3**, and **JavaScript**). This application provides essential arithmetic functionality, fluid layout responsiveness, and clean interactive feedback without any heavy dependencies.
 
 ---
 
@@ -30,9 +30,9 @@ The **Web Calculator** provides an intuitive digital interface mimicking physica
 
 ## 🛠️ Tech Stack & Architecture
 
-- **[HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)**: Semantic structure and accessible DOM elements.
-- **[CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)**: Custom styling, flexbox/grid layout systems, hover effects, and responsive breakpoints.
-- **[JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**: Event listening, state tracking, string parsing, arithmetic evaluations, and DOM manipulation.
+- **HTML5**: Semantic structure and accessible DOM elements.
+- **CSS3**: Custom styling, flexbox/grid layout systems, hover effects, and responsive breakpoints.
+- **JavaScript (ES6+)**: Event listening, state tracking, string parsing, arithmetic evaluations, and DOM manipulation.
 
 ---
 
@@ -40,11 +40,11 @@ The **Web Calculator** provides an intuitive digital interface mimicking physica
 
 ```text
 Calculator/
-├── index.html     # Main markup defining calculator layout and structure
-├── style.css      # Visual aesthetics, layout styling, and responsiveness
-├── script.js      # Core logic, button event listeners, and calculation engine
-├── README.md      # Detailed project overview and instructions
-└── CONTRIBUTING.md# Guidelines for open-source contributions
+├── index.html       # Main markup defining calculator layout and structure
+├── style.css        # Visual aesthetics, layout styling, and responsiveness
+├── script.js        # Core logic, button event listeners, and calculation engine
+├── README.md        # Detailed project overview and instructions
+└── CONTRIBUTING.md  # Guidelines for open-source contributions
 ```
 
 ---
@@ -69,7 +69,7 @@ No build tools or command-line package managers are needed! All you need is any 
 
 3. **Launch the Application**:
    - Double-click `index.html` to open it in your default web browser.
-   - Alternatively, if you use **Visual Studio Code**, launch it with the **Live Server** extension for real-time live reloading.
+   - Alternatively, if you use Visual Studio Code, launch it with the **Live Server** extension for real-time live reloading.
 
 ---
 
@@ -81,18 +81,17 @@ No build tools or command-line package managers are needed! All you need is any 
 
 ---
 
-## 🗺️ Roadmap & Proposed Enhancements
+## ☕ Support the Project
 
-- [ ] Add keyboard listener support (numpad and standard keyboard input).
-- [ ] Implement scientific calculator functions (square root, trigonometric functions, powers, logarithms).
-- [ ] Add dark/light mode theme toggle switch.
-- [ ] Implement calculation history log panel.
+If you find this project useful or helpful, consider supporting the work:
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/adarsh12kumar)
 
 ---
 
 ## 👤 Author
 
-- **Adarsh Kumar** - [*@adarsh0707-kumar*](https://github.com/adarsh0707-kumar)
+- **Adarsh Kumar** - [@adarsh0707-kumar](https://github.com/adarsh0707-kumar)
 
 ---
 
